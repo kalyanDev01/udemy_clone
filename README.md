@@ -1,18 +1,18 @@
-🎓 Udemy Clone – HTML & CSS
+🎓 **Udemy Clone – HTML & CSS**
 
 Welcome to my Udemy Clone project!
 This is a responsive front-end clone of the Udemy platform, built purely using HTML and CSS to practice modern UI design and layout techniques.
 
 🚀 This project focuses on structure, styling, and responsiveness—no JavaScript or backend involved.
 
-🔍 Live Preview
+🔍 **Live Preview**
 
 👉 View Demo
  (https://kalyandev01.github.io/udemy_clone)
 
-🖼️ Project Preview
+🖼️ **Project Preview**
 
-✨ Features
+✨ **Features**
 
 ✔️ Clean and modern UI inspired by Udemy
 ✔️ Fully responsive layout (Desktop / Tablet / Mobile)
@@ -21,7 +21,7 @@ This is a responsive front-end clone of the Udemy platform, built purely using H
 ✔️ Categories & featured courses section
 ✔️ Footer with multiple useful links
 
-🛠️ Built With
+🛠️ **Built With**
 
 🧱 HTML5 – Semantic structure
 
@@ -31,7 +31,7 @@ This is a responsive front-end clone of the Udemy platform, built purely using H
 
 🌐 Google Fonts – Typography
 
-📁 Folder Structure
+📁 **Folder Structure**
 udemy_clone/
 │
 ├── index.html
@@ -52,24 +52,24 @@ udemy_clone/
 │   └── icons/image12.jpg
 └── README.md
 
-🚀 Getting Started
+🚀 **Getting Started**
 
 Follow these steps to run the project locally:
 
-Clone the repository
+**Clone the repository**
 
 git clone https://github.com/kalyanDev01/udemy_clone.git
 
 
 Navigate to the project folder
 
-cd udemy-clone
+cd udemy_clone
 
 
 Open index.html in your browser
 🎉 That’s it! No setup required.
 
-🎯 Learning Outcomes
+🎯 **Learning Outcomes**
 
 Through this project, I practiced:
 
@@ -81,7 +81,7 @@ Designing reusable UI components
 
 Improving attention to detail in UI design
 
-🧠 Future Enhancements
+🧠 **Future Enhancements**
 
 🔹 Add JavaScript for dynamic content
 🔹 Implement course filtering & search
@@ -102,21 +102,21 @@ Commit your changes
 
 Open a Pull Request
 
-📜 License
+📜 **License**
 
 This project is for educational purposes only and is not affiliated with Udemy.
 
-🙌 Acknowledgements
+🙌 **Acknowledgements**
 
 Inspired by Udemy
 
 UI ideas from modern e-learning platforms
 
-⭐ Show Your Support
+⭐ **Show Your Support**
 
 If you liked this project:
 
-⭐ Star the repository
+⭐ **Star the repository**
 
 🍴 Fork it
 
