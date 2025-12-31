@@ -50,55 +50,38 @@ body{
     background-color: #A435F0;
     padding: 10px;
     color: white;
-    border-radius: 330px
+    border-radius: 30px;
 }
 .sale-img img{
     width: 100%;
 }
 .recommended {
     padding: 32px 10px;
-
 }
-
+.course-card{
+    width: 250px;
+}
+.course-card img{
+    width: 100%;
+    height: 50%;
+}
 .recommended__container {
-
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     margin-top: 10px;
     gap: 20px;
 }
-
-.course-card {
-    width: 350px;
-    background: white;
-    border: 1px solid #e5e7eb;
-    border-radius: 20px;
-    overflow: hidden;
+.topics{
+    padding: 10px;
 }
-
-.course-card img {
-    width: 100%;
-    height: 190px;
-    object-fit: cover;
-    display: block;
-}
-
-/* top and bottom 32 */
-/* left and right 10 */
-.topics {
-    padding: 32px 10px;
-
-}
-
-.topics__container {
+.topics__container{
     display: flex;
     gap: 10px;
     margin-top: 10px;
     flex-wrap: wrap;
 }
-
-.topics__container p {
+.topics__container p{
     border: solid gray 2px;
     padding: 10px;
     flex-grow: 1;
@@ -117,7 +100,6 @@ body{
     justify-content: space-between;
     margin-top: 10px;
     gap: 20px;
-
 }
 
 /* changing colors to smoothen */
